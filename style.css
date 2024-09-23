@@ -7,25 +7,27 @@ body,html{
 .card{
     background-color: hsl(0, 0%, 12%);
     color: hsl(0, 0%, 100%);
+    padding: 2%;
+    border-radius: 15px;
 }
 .card-title{
-    font-size: 100%;
+    font-size: 3vh;
 }
 .card-subtitle{
     color:hsl(75, 94%, 57%);
-    font-size: 70%;
+    font-size: 2vh;
 }
 
 .userPicture{
-    width: 30%;
+    width: 10vh;
 }
 
 .userDes {
-    font-size: 65%;
+    font-size: 1.5vh;
     color:#a6adb9;
 }
 
 .linkBtn{
-    font-size: 65%;
+    font-size: 2vh;
     background-color: hsl(0, 0%, 20%);
 }

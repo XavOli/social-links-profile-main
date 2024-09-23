@@ -31,3 +31,8 @@ body,html{
     font-size: 2vh;
     background-color: hsl(0, 0%, 20%);
 }
+
+.linkBtn:hover{
+    color: black;
+    background-color: hsl(75, 94%, 57%);
+}

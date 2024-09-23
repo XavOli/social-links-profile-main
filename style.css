@@ -1,20 +1,30 @@
-* {
-}
-
 body,html{
     height: 100%;
     background-color: hsl(0, 0%, 8%);
+    font-family: 'Inter', sans-serif;
 }
 
 .card{
     background-color: hsl(0, 0%, 12%);
     color: hsl(0, 0%, 100%);
 }
-
+.card-title{
+    font-size: 80%;
+}
 .card-subtitle{
     color:hsl(75, 94%, 57%);
+    font-size: 50%;
 }
 
 .userPicture{
-    width: 15%;
+    width: 25%;
+}
+
+.userDes {
+    font-size: 45%;
+}
+
+.linkBtn{
+    font-size: 45%;
+    background-color: hsl(0, 0%, 20%);
 }
